@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Textos para ESO",
+  "description": "Una aplicación educativa que genera textos y preguntas de comprensión lectora para estudiantes de Educación Secundaria Obligatoria (ESO) en España, utilizando la API de Gemini.",
+  "requestFramePermissions": []
+}
